@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path+",
+      "destination": "https://www.ppam-gdl.app/:path+",
+      "permanent": true
+    }
+  ]
+}
